@@ -1,1 +1,2 @@
-Welcome to my repository where I've compiled all the LeetCode problems I've solved to date. This collection represents my journey through the challenging world of coding and algorithmic problem-solving.
+Welcome to my repository! This is a collection of LeetCode problems I’ve solved so far, reflecting my growth and journey in coding and algorithmic problem-solving.
+I’ve actually solved a lot more… I’ve just been a little too lazy to upload the rest 😅
